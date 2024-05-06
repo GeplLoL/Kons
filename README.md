@@ -20,3 +20,5 @@ lisage uus admin õpetaja andmebaasi kaudu,
 lisage nõustamisele mingi parameeter, 
 
 muutke vormi stiile,  
+
+lisage parooli krüpteerimine
