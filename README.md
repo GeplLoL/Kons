@@ -185,10 +185,10 @@ if(isset($_SESSION['kasutajanimi'])) {
 
 ## Kasutaja leht
 
-![image](![image](https://github.com/GeplLoL/Kons/assets/85700200/870320b0-c903-4ef8-9955-fbe254857977)
+![image](https://github.com/GeplLoL/Kons/assets/85700200/870320b0-c903-4ef8-9955-fbe254857977)
 
 ## Haldus leht
-![image](![image](https://github.com/GeplLoL/Kons/assets/85700200/6282602e-391d-4b53-a9fe-e59e36dd9b55)
+![image](https://github.com/GeplLoL/Kons/assets/85700200/6282602e-391d-4b53-a9fe-e59e36dd9b55)
 
 
 
