@@ -8,14 +8,6 @@ See loodi eesmärgiga olla loetav ja hõlpsasti kirjutatav, kuid samas konvertee
 
 [Veebileht](https://denissgorjunov22.thkit.ee)
 
-[UML konspekt](https://denissgorjunov22.thkit.ee/DenissGorjunov/uml-konspekt/)
-
-[Tegevusskeem](https://denissgorjunov22.thkit.ee/DenissGorjunov/tegevusskeem/)
-
-[Case vahendit](https://denissgorjunov22.thkit.ee/DenissGorjunov/case-vahendid/)
-
-[Andmebaasiskeem](https://denissgorjunov22.thkit.ee/DenissGorjunov/andmebaasi-skeem/)
-
 ## Sisukord
 
 1. [Tantsupaaride punktide haldamine](https://github.com/GeplLoL/Tantsud?tab=readme-ov-file#tantsupaaride-punktide-haldamine)
