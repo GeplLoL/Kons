@@ -186,10 +186,10 @@ if(isset($_SESSION['kasutajanimi'])) {
 
 ## Kasutaja leht
 
-![image](https://github.com/GeplLoL/Tantsud/assets/85700200/b447f181-f65a-49f1-aa21-ce33fbf2c633)
+![image](![image](https://github.com/GeplLoL/Kons/assets/85700200/870320b0-c903-4ef8-9955-fbe254857977)
 
 ## Haldus leht
-![image](https://github.com/GeplLoL/Tantsud/assets/85700200/d490c02a-eb14-4579-a917-f7d78edf00e2)
+![image](![image](https://github.com/GeplLoL/Kons/assets/85700200/6282602e-391d-4b53-a9fe-e59e36dd9b55)
 
 
 
