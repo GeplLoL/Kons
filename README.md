@@ -17,7 +17,7 @@ kus see on vajalik,
 
 lisage uus admin õpetaja andmebaasi kaudu, 
 
-lisage nõustamisele mingi parameeter, 
+Lisage saidi logo,
 
 muutke vormi stiile,  
 
