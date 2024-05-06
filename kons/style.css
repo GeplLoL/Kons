@@ -53,13 +53,13 @@ input[type="text"],
 input[type="password"],
 input[type="submit"] {
     text-align: center;
-    width: 100%;
-    padding: 8px;
+    width: 60%;
+    padding: 6px;
     margin: 5px 0;
     box-sizing: border-box;
     border: 1px solid #555;
     border-radius: 4px;
-    background-color: #333;
+    background-color: #7a3a3a;
     color: #ddd;
 }
 
