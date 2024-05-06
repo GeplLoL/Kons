@@ -180,7 +180,6 @@ if(isset($_SESSION['kasutajanimi'])) {
 </body>
 </html>
 ```
-![image](https://github.com/GeplLoL/Tantsud/assets/85700200/69b6eb5f-d792-4089-8160-14e25d6fa275)
 
 ![image](https://github.com/GeplLoL/Tantsud/assets/85700200/60bcde1d-356f-44cb-a34a-2ec1171b2ca0)
 
