@@ -13,7 +13,7 @@ Muutke modaalakna stiile,
 
 suurendage teksti, 
 
-kus see on vajalik, 
+muuda lehekülje registreerimise stiili
 
 lisage uus admin õpetaja andmebaasi kaudu, 
 
