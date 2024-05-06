@@ -7,3 +7,6 @@ Features
 Admin Panel: Administrators can log in and access the admin panel to manage consultations.
 Consultation Management: Administrators can add, edit, and delete consultation entries.
 User Interface: Users can view consultation details through a user-friendly interface.
+Ülessanded
+-lisa css stiili ....
+-muuda php failis ...
