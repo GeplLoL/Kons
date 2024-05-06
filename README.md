@@ -9,6 +9,14 @@ Consultation Management: Administrators can add, edit, and delete consultation e
 User Interface: Users can view consultation details through a user-friendly interface.
 Ülessanded
 
--lisa css stiili ....
+Muutke modaalakna stiile,
 
--muuda php failis ...
+suurendage teksti, 
+
+kus see on vajalik, 
+
+lisage uus admin õpetaja andmebaasi kaudu, 
+
+lisage nõustamisele mingi parameeter, 
+
+muutke vormi stiile,  
