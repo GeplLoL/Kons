@@ -11,8 +11,11 @@ See loodi eesmärgiga olla loetav ja hõlpsasti kirjutatav, kuid samas konvertee
 ## Sisukord
 
 [Uue Konsultatsioon lisamine](https://github.com/GeplLoL/Kons/blob/main/README.md#:~:text=Uue%20Konsultatsioon%20lisamine%3A)
+
 [Konsultatsioon eemaldamine](https://github.com/GeplLoL/Kons/blob/main/README.md#:~:text=Konsultatsioon%20eemaldamine%3A)
+
 [Juurdepääsuõiguste kontrollimine](https://github.com/GeplLoL/Kons/blob/main/README.md#:~:text=Juurdep%C3%A4%C3%A4su%C3%B5iguste%20kontrollimine%3A)
+
 [Seansi juhtimine](https://github.com/GeplLoL/Kons/blob/main/README.md#:~:text=kasutaja%20on%20administraator.-,Seansi%20juhtimine%3A,-Seansi%20alustamiseks%20kasutage)
 
 
