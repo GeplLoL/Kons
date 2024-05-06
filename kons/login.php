@@ -5,7 +5,7 @@ session_start();
 if (!empty($_POST['login']) && !empty($_POST['pass'])) {
     $login = htmlspecialchars(trim($_POST['login']));
     $pass = htmlspecialchars(trim($_POST['pass']));
-
+    $hashed_pass = password_hash($pass, PASSWORD_DEFAULT);
     $kask = $yhendus->prepare("SELECT kasutajanimi, roll FROM kasutajad WHERE kasutajanimi=? AND parool=?");
     $kask->bind_param("ss", $login, $pass);
     $kask->bind_result($kasutajanimi, $roll);
