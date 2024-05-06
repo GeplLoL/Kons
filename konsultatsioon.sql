@@ -34,6 +34,7 @@ CREATE TABLE `konsultatsioon` (
   `tund` varchar(50) NOT NULL,
   `klassiruum` varchar(50) DEFAULT NULL,
   `periood` varchar(50) NOT NULL,
+  `opetaja` varchar(50),
   `kommentaar` text DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
