@@ -21,4 +21,4 @@ Lisage saidi logo,
 
 muutke vormi stiile,  
 
-lisage parooli krüpteerimine
+lisa mõnele objektile erinevad positsion
