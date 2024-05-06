@@ -43,7 +43,8 @@ INSERT INTO `kasutajad` (`id`, `kasutajanimi`, `parool`, `roll`) VALUES
 (2, 'user', 'userpassword', 'tavakasutaja'),
 (3, 'Larmesdesang', 'Larmesdesang123.', 'admin'),
 (5, 'Pirog', 'Pirog123.', 'tavakasutaja'),
-(6, 'irina', 'irina5.', 'tavakasutaja');
+(6, 'irina', 'irina5.', 'tavakasutaja'),
+(7, 'admin2', 'adminpassword', 'admin');
 
 --
 -- Indeksid tõmmistatud tabelitele
