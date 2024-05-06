@@ -10,33 +10,24 @@ See loodi eesmärgiga olla loetav ja hõlpsasti kirjutatav, kuid samas konvertee
 
 ## Sisukord
 
-1. [Tantsupaaride punktide haldamine](https://github.com/GeplLoL/Tantsud?tab=readme-ov-file#tantsupaaride-punktide-haldamine)
-2. [Uue tantsupaari lisamine](https://github.com/GeplLoL/Tantsud?tab=readme-ov-file#uue-tantsupaari-lisamine)
-3. [Tantsupaari eemaldamine](https://github.com/GeplLoL/Tantsud?tab=readme-ov-file#tantsupaari-eemaldamine)
-4. [Kommentaari lisamine tantsupaarile](https://github.com/GeplLoL/Tantsud?tab=readme-ov-file#kommentaari-lisamine-tantsupaarile)
-5. [Kõigi tantsupaari kommentaaride kustutamine](https://github.com/GeplLoL/Tantsud?tab=readme-ov-file#k%C3%B5igi-tantsupaari-kommentaaride-kustutamine)
-6. [Juurdepääsuõiguste kontrollimine](https://github.com/GeplLoL/Tantsud?tab=readme-ov-file#juurdep%C3%A4%C3%A4su%C3%B5iguste-kontrollimine)
-7. [Seansi juhtimine](https://github.com/GeplLoL/Tantsud?tab=readme-ov-file#seansi-juhtimine)
+[Uue Konsultatsioon lisamine](https://github.com/GeplLoL/Tantsud?tab=readme-ov-file#uue-tantsupaari-lisamine)
+[Konsultatsioon eemaldamine](https://github.com/GeplLoL/Tantsud?tab=readme-ov-file#tantsupaari-eemaldamine)
+[Konsultatsioon lisamine Konsultatsioonile](https://github.com/GeplLoL/Tantsud?tab=readme-ov-file#kommentaari-lisamine-tantsupaarile)
+[Juurdepääsuõiguste kontrollimine](https://github.com/GeplLoL/Tantsud?tab=readme-ov-file#juurdep%C3%A4%C3%A4su%C3%B5iguste-kontrollimine)
+[Seansi juhtimine](https://github.com/GeplLoL/Tantsud?tab=readme-ov-file#seansi-juhtimine)
 
 
-## Tantsupaaride punktide haldamine:
-    Kui taotluses on soojusainete parameeter olemas, suurendatakse vastava tantsupaari punktide arvu 1 võrra.
-    Kui päringus on parameeter heatantsDel olemas, vähendatakse vastava tantsupaari punktide arvu 1 võrra.
 
 *
-### Uue tantsupaari lisamine:
+### Uue Konsultatsioon lisamine:
     Kui päringus on parameeter paarinimi ja kasutaja ei ole administraator, lisatakse uus tantsupaar määratud nime ja praeguse kuupäevaga.
 
 *
-### Tantsupaari eemaldamine:
+### Konsultatsioon eemaldamine:
     Kui päringus on parameeter paarinimiDel ja kui kasutaja on administraator, siis määratud identifikaatorit kasutav tantsupaar kustutatakse.
 
 *
-### Kommentaari lisamine tantsupaarile:
-    Kui päringus on kommentaar ja uuskomment parameetrid olemas ja kui kasutaja ei ole administraator, lisatakse tantsupaarile kommentaar.
-
-*
-### Kõigi tantsupaari kommentaaride kustutamine:
+### Kõigi Konsultatsioon kommentaaride kustutamine:
     Kui päringus on parameeter commentDel ja kui kasutaja on administraator, kustutatakse kõik määratud tantsupaari kommentaarid.
 
 *
