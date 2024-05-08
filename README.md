@@ -14,7 +14,7 @@ See loodi eesmärgiga olla loetav ja hõlpsasti kirjutatav, kuid samas konvertee
 
 [Konsultatsioon eemaldamine](https://github.com/GeplLoL/Kons/blob/main/README.md#konsultatsioon-eemaldamine)
 
-[Juurdepääsuõiguste kontrollimine](https://github.com/GeplLoL/Kons/blob/main/README.md#:~:text=Juurdep%C3%A4%C3%A4su%C3%B5iguste%20kontrollimine%3A)
+[Juurdepääsuõiguste kontrollimine](https://github.com/GeplLoL/Kons/blob/main/README.md#juurdep%C3%A4%C3%A4su%C3%B5iguste-kontrollimine)
 
 [Seansi juhtimine](https://github.com/GeplLoL/Kons/blob/main/README.md#:~:text=kasutaja%20on%20administraator.-,Seansi%20juhtimine%3A,-Seansi%20alustamiseks%20kasutage)
 
