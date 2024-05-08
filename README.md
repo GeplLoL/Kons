@@ -12,7 +12,7 @@ See loodi eesmärgiga olla loetav ja hõlpsasti kirjutatav, kuid samas konvertee
 
 [Uue Konsultatsioon lisamine](https://github.com/GeplLoL/Kons/blob/main/README.md#uue-konsultatsioon-lisamine)
 
-[Konsultatsioon eemaldamine](https://github.com/GeplLoL/Kons/blob/main/README.md#:~:text=Konsultatsioon%20eemaldamine%3A)
+[Konsultatsioon eemaldamine](https://github.com/GeplLoL/Kons/blob/main/README.md#konsultatsioon-eemaldamine)
 
 [Juurdepääsuõiguste kontrollimine](https://github.com/GeplLoL/Kons/blob/main/README.md#:~:text=Juurdep%C3%A4%C3%A4su%C3%B5iguste%20kontrollimine%3A)
 
