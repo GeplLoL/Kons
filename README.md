@@ -21,17 +21,17 @@ See loodi eesmärgiga olla loetav ja hõlpsasti kirjutatav, kuid samas konvertee
 
 
 ### Uue Konsultatsioon lisamine:
-    Kui päringus on parameeter paarinimi ja kasutaja ei ole administraator, lisatakse uus tantsupaar määratud nime ja praeguse kuupäevaga.
+Kui päringus on parameeter paarinimi ja kasutaja ei ole administraator, lisatakse uus tantsupaar määratud nime ja praeguse kuupäevaga.
 
 ### Konsultatsioon eemaldamine:
-    Kui päringus on parameeter paarinimiDel ja kui kasutaja on administraator, siis määratud identifikaatorit kasutav tantsupaar kustutatakse.
+Kui päringus on parameeter paarinimiDel ja kui kasutaja on administraator, siis määratud identifikaatorit kasutav tantsupaar kustutatakse.
 
 ### Juurdepääsuõiguste kontrollimine:
-    Funktsiooni isAdmin() kasutatakse kontrollimaks, kas praegune kasutaja on administraator.
+Funktsiooni isAdmin() kasutatakse kontrollimaks, kas praegune kasutaja on administraator.
 
 ### Seansi juhtimine:
-    Seansi alustamiseks kasutage funktsiooni session_start().
-    Kood eeldab, et seansis salvestatakse teave administraatori oleku kohta.
+Seansi alustamiseks kasutage funktsiooni session_start().
+Kood eeldab, et seansis salvestatakse teave administraatori oleku kohta.
 
 
 ```
