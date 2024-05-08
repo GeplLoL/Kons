@@ -10,7 +10,7 @@ See loodi eesmärgiga olla loetav ja hõlpsasti kirjutatav, kuid samas konvertee
 
 ## Sisukord
 
-[Uue Konsultatsioon lisamine](https://github.com/GeplLoL/Kons/blob/main/README.md#:~:text=Uue%20Konsultatsioon%20lisamine%3A)
+[Uue Konsultatsioon lisamine](https://github.com/GeplLoL/Kons/blob/main/README.md#uue-konsultatsioon-lisamine)
 
 [Konsultatsioon eemaldamine](https://github.com/GeplLoL/Kons/blob/main/README.md#:~:text=Konsultatsioon%20eemaldamine%3A)
 
