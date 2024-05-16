@@ -17,6 +17,7 @@ See loodi eesmärgiga olla loetav ja hõlpsasti kirjutatav, kuid samas konvertee
 [Juurdepääsuõiguste kontrollimine](https://github.com/GeplLoL/Kons/blob/main/README.md#juurdep%C3%A4%C3%A4su%C3%B5iguste-kontrollimine)
 
 [Seansi juhtimine](https://github.com/GeplLoL/Kons/blob/main/README.md#seansi-juhtimine)
+
 [Ülessanded](https://github.com/GeplLoL/Kons/blob/main/README.md#%C3%BClessanded)
 
 
