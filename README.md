@@ -190,14 +190,14 @@ if(isset($_SESSION['kasutajanimi'])) {
 
 1. Muutke modaalakna stiile,
 
-2. suurendage teksti, 
+2. Suurendage teksti, 
 
-3. muuda lehekülje registreerimise stiili
+3. Muuda lehekülje registreerimise stiili
 
-4. lisage uus admin õpetaja andmebaasi kaudu, 
+4. Lisage uus admin õpetaja andmebaasi kaudu, 
 
 5. Lisage saidi logo,
 
-6. muutke vormi stiile,  
+6. Muutke vormi stiile,  
 
-7. lisa mõnele objektile erinevad positsion
+7. Lisa mõnele objektile erinevad positsion
