@@ -188,16 +188,16 @@ if(isset($_SESSION['kasutajanimi'])) {
 
 Ülessanded:
 
-Muutke modaalakna stiile,
+1. Muutke modaalakna stiile,
 
-suurendage teksti, 
+2. suurendage teksti, 
 
-muuda lehekülje registreerimise stiili
+3. muuda lehekülje registreerimise stiili
 
-lisage uus admin õpetaja andmebaasi kaudu, 
+4. lisage uus admin õpetaja andmebaasi kaudu, 
 
-Lisage saidi logo,
+5. Lisage saidi logo,
 
-muutke vormi stiile,  
+6. muutke vormi stiile,  
 
-lisa mõnele objektile erinevad positsion
+7. lisa mõnele objektile erinevad positsion
